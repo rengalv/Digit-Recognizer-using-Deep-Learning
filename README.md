@@ -1,4 +1,4 @@
-# Digit-Recognizer-using-Deep-Learning
+# Digit Recognizer using Deep-Learning
 
 ## Introduction:
 
